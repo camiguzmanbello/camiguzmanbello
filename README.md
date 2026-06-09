@@ -1,9 +1,9 @@
-# Hi, I'm Camila Guzmán 👋
+# Hi, I'm Camila Guzmán :)
 
 Full-Stack Developer based in Bogotá, Colombia.
 Systems & Computer Engineer — degree expected September 2025.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Backend:** Python · Django · Django REST Framework
 - **Frontend:** React · TypeScript · JavaScript
 - **Databases:** PostgreSQL · MySQL
