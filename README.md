@@ -16,6 +16,5 @@ built with Django, React, TypeScript and PostgreSQL.
 → REST API with 20+ endpoints · JWT authentication · Scrum methodology
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/maria-camila-guzmán-bello-8b4a471ab
 - Email: camiguzmanbello@gmail.com
 
